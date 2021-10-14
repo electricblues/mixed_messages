@@ -1,19 +1,14 @@
-# Mixed Messages project 
+# Mixed Messages project
+
 ## General information
 
-A message generator program that every time a user runs the program, they get a new, randomized output.
+A message generator program that logs a randomized message about what the user should eat and where.
 
 ## Technologies used
-+ JavaScript
-+ Git and GitHub
-+ Command line
 
-
-- Node js
-- VS code
-- JavaScript 
-
+- JavaScript
 
 ## Set up
 
-
+Clone the repository
+in the project folder, run "node runme.js"
