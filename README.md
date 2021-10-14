@@ -11,4 +11,4 @@ A message generator program that logs a randomized message about what the user s
 ## Set up
 
 Clone the repository
-in the project folder, run "node runme.js"
+in the project folder, run `node runme.js`
